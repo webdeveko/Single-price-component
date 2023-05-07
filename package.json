@@ -1,0 +1,26 @@
+{
+  "name": "single-price-component-eko",
+  "version": "1.0.0",
+  "description": "Submission for Single Price Component challenge in front end mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdeveko/Single-price-component.git"
+  },
+  "keywords": [
+    "frontEnd",
+    "mentor"
+  ],
+  "author": "Eko Prasetyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdeveko/Single-price-component/issues"
+  },
+  "homepage": "https://github.com/webdeveko/Single-price-component#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
